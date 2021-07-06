@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.harsh.entertainment">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Entertainment">
+        <activity android:name=".news.news"/>
+        <activity android:name=".meme.Memes" />
+        <activity android:name=".chatbott.chatbot" />
+        <activity android:name=".login.homepage" />
+        <activity android:name=".login.otpverification" />
+        <activity android:name=".login.signup1" />
+        <activity android:name=".login.mobilenumber" />
+        <activity android:name=".login.signup2" />
+        <activity android:name=".login.signup" />
+        <activity android:name=".login.login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

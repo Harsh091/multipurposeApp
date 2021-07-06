@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Entertainment</string>
+    <string name="we_will_send_you_one_time_otp_on_this_mobile_number">We will send you one time otp on this mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="_9876283883">9876283883</string>
+    <string name="_9523677530">9523677530</string>
+    <string name="_91">+91</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="create_account">Create Account</string>
+    <string name="select_your_age">Select your Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="next">NEXT</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_the_otp_sent_to_you">Enter the OTP sent to you</string>
+    <string name="didn_t_recieve_otp">Didn\'t recieve OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="read_more">Read more</string>
+</resources>

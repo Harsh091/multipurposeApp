@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886835843056",
+    "project_id": "entertainment-ffe56",
+    "storage_bucket": "entertainment-ffe56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886835843056:android:79d16f2c8a3409f43d9735",
+        "android_client_info": {
+          "package_name": "com.harsh.entertainment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886835843056-255j3cfglg66j6vchgu1jo9f6aonjp5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGtF3MyXJDYznWjfxXmEFgj4HsyQFFmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886835843056-255j3cfglg66j6vchgu1jo9f6aonjp5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
