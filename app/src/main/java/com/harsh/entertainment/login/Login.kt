@@ -29,7 +29,7 @@ class login : AppCompatActivity() {
         password1 = findViewById(R.id.password1)
         create = findViewById(R.id.create_account)
         create.setOnClickListener {
-            val intent = Intent(this, homepage::class.java)
+            val intent = Intent(this, signup::class.java)
             startActivity(intent)
         }
         otpverification = findViewById(R.id.otpverification)
